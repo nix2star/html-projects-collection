@@ -7,6 +7,9 @@ Here’s a clean, beginner-friendly **README.md** you can copy straight into you
 This is a simple beginner-level HTML project that displays a personal introduction with a heading, paragraph, and image. The goal of this project is to practice basic HTML structure and inline CSS styling while creating a clean and readable webpage.
 
 ---
+![Preview of my project](Images/Personal-Intro-Page.png)
+
+---
 
 ## 📄 Project Overview
 
