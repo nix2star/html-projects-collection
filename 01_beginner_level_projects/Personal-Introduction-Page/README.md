@@ -7,6 +7,8 @@ Here’s a clean, beginner-friendly **README.md** you can copy straight into you
 This is a simple beginner-level HTML project that displays a personal introduction with a heading, paragraph, and image. The goal of this project is to practice basic HTML structure and inline CSS styling while creating a clean and readable webpage.
 
 ---
+## 📸 Screenshot
+
 ![Preview of my project](Images/Personal-Intro-Page.png)
 
 ---
@@ -32,17 +34,6 @@ This project is part of my early web development practice as I build foundationa
 
 ---
 
-## 📸 Screenshot
-
-*(Add your own screenshot here if you want)*
-Example placeholder:
-
-```
-[Insert screenshot of the webpage]
-```
-
----
-
 ## 📁 Folder Structure
 
 ```
@@ -52,10 +43,6 @@ project-folder/
 └── Images/
     └── Nix.jpg
 ```
-
-Make sure your image file is stored inside the **Images** folder so it loads correctly.
-
----
 
 ## 🚀 How to View the Page
 
